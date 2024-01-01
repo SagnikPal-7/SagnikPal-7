@@ -1,6 +1,11 @@
-![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966)
+<div align="center" >
+  <img alt="banner" src="https://i.imgur.com/yJviLHL.gif">
+</div>
+<img align="left" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
+<img align="right" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
 <h1 align="center" style="color: blue;">I'm Sagnik Pal 👋</h1>
 <!--<h3 align="center">A passionate full stack web developer from India. Focusing to learn Android development and Devops.</h3>-->
+<h3 align="center">Eat -> code -> sleep -> repeat</h3>
 <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>🎓Computer Science Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College </em></a>
@@ -46,10 +51,17 @@ Click here to access my link-tree where all my links are available ⬇️
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikpal-7&" alt="sagnikpal-7" /></p>
    
 <p align="left"><h2><img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"><em>My Profile Trophies:<em></h2></p>
- <p align="center"> 
+<!--  <p align="center">  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikpal-7" alt="sagnikpal-7" /></a> </p>
 
 <h2><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"><em> Languages I've used most:<em></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikpal-7&show_icons=true&locale=en&layout=compact" alt="sagnikpal-7"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikpal-7&show_icons=true&locale=en&layout=compact" alt="sagnikpal-7"/></p>
+
+
+<div align="center">
+  <h3><p>Thanks for visiting my profile. Bye Bye!</p></h3>
+  <img alt="cat" width="250" src="https://i.imgur.com/9r6i9Gm.gif">
+</div>
+<img align="center" alt="line" src="https://i.imgur.com/aXSSJjf.png">
 
 
