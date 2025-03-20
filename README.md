@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on Codes<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning <b>MongoDB</b>
 - 👨‍💻 All of my projects are available at [https://sagnik-portfolio-opal.vercel.app/](https://sagnik-portfolio-opal.vercel.app/)
-- 💬 Ask me about: <b>Full Stack Web Dev, C, Java, Python, Javascript</b>
+- 💬 Ask me about: <b>Full Stack Web Dev, C, Python, Javascript</b>
 - 📫 [How to reach me:](mailto:sagnikp62@gmail.com)
 - 📄 <b>Know about my experiences</b> [https://drive.google.com/drive/folders/19UyId8_SVyQrlY8n2Nqjb6wYNF_mkPAx?usp=sharing](https://drive.google.com/drive/folders/19UyId8_SVyQrlY8n2Nqjb6wYNF_mkPAx?usp=sharing)
 - ⚡<b> Fun fact:</b> White-faced capuchin monkeys greet each other by sticking their fingers up each others’ noses.
