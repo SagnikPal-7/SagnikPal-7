@@ -83,11 +83,11 @@ npx sagnik
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikpal-7&theme=synthwave-84&true&hide_border=true" />
 </div>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikpal-7&layout=compact&theme=highcontrast" alt=apu52 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikpal-7&layout=compact&theme=highcontrast" alt=sagnikpal-7 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sagnikpal-7&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sagnikpal-7&show_icons=true&locale=en&theme=highcontrast" alt="sagnikpal-7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikpal-7&theme=radical" alt="apu52" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikpal-7&theme=radical" alt="sagnikpal-7" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
